@@ -9,11 +9,15 @@ Manage health and stamina while utilizing unique combat mechanics
   "Aim Circle": the position and orientation of the player's sword can be changed to aim attacks and guards
 
 Attributions:
+
 Plugins:
+
  Auto Footstep Tool: https://www.unrealengine.com/marketplace/en-US/product/auto-footstep-tool?sessionInvalidated=true (used to automatically place animation notifies for footstep sounds)
  
  Free Bone Snapper: https://www.unrealengine.com/marketplace/en-US/product/free-bone-snapper (used to convert mixamo animations into ue5 mannequin)
+
 Assets:
+
  Animation Starter Pack: https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack (used for death animations)
  
  Footsteps Bundle: https://www.unrealengine.com/marketplace/en-US/product/footsteps-bundle (used for footstep sounds)
